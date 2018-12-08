@@ -13,6 +13,10 @@ import Tarefas from './Tarefas';
 import Sobre from './Sobre';
 import Login from './Login';
 
+
+
+
+
 import PrivateRoute from '../components/PrivateRoute'
 import Menu from '../components/Menu';
 
